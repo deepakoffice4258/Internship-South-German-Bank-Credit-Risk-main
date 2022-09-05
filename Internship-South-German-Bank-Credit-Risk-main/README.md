@@ -165,7 +165,3 @@ Run app.py file
 10. Heroku
 ~~~
 
-## Document
-Below providing the link of all the document that are required for creating the project.
-
-Link: [Document Link](https://drive.google.com/drive/folders/1XqY3PVwtXR0G0rJfvl1DI3XU7m_Zqu29?usp=sharing)
